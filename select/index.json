@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "陽炎",
+  "base_artist": "Fujifabric",
+  "createdAt": "2026-01-05T13:44:41.336093Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "陽炎",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_陽炎_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "陽炎",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_陽炎_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kagero [陽炎]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_Kagero_[陽炎]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "陽炎",
+      "artist": "鬼束ちひろ",
+      "has_synced": false,
+      "path": "select/04_陽炎_鬼束ちひろ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "陽炎",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/05_陽炎_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "陽炎",
+      "artist": "Kanako Ito",
+      "has_synced": true,
+      "path": "select/06_陽炎_Kanako_Ito.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "陽炎",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/07_陽炎_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "陽炎 [Heat Haze]",
+      "artist": "中森明菜 (Akina Nakamori)",
+      "has_synced": true,
+      "path": "select/08_陽炎_[Heat_Haze]_中森明菜_(Akina_Nakamori).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "陽炎",
+      "artist": "Fujifabric",
+      "has_synced": true,
+      "path": "select/09_陽炎_Fujifabric.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "陽炎",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/10_陽炎_フジファブリック.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "陽炎",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/11_陽炎_フジファブリック.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "陽炎-heat wave- (Kagerou)",
+      "artist": "Mami Ayukawa",
+      "has_synced": false,
+      "path": "select/12_陽炎-heat_wave-_(Kagerou)_Mami_Ayukawa.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "陽炎",
+      "artist": "遠藤龍軌",
+      "has_synced": false,
+      "path": "select/13_陽炎_遠藤龍軌.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "陽炎",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/14_陽炎_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "陽炎",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/15_陽炎_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "陽炎",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/16_陽炎_フジファブリック.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "陽炎",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/17_陽炎_いきものがかり.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "陽炎",
+      "artist": "結月そら",
+      "has_synced": false,
+      "path": "select/18_陽炎_結月そら.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "陽炎",
+      "artist": "フジファブリック",
+      "has_synced": false,
+      "path": "select/pl_01_陽炎_フジファブリック.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "陽炎",
+      "artist": "フジファブリック",
+      "has_synced": false,
+      "path": "select/pl_02_陽炎_フジファブリック.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "陽炎",
+      "artist": "フジファブリック",
+      "has_synced": false,
+      "path": "select/pl_03_陽炎_フジファブリック.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "陽炎",
+      "artist": "フジファブリック",
+      "has_synced": false,
+      "path": "select/pl_04_陽炎_フジファブリック.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "陽炎",
+      "artist": "フジファブリック",
+      "has_synced": false,
+      "path": "select/pl_05_陽炎_フジファブリック.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "陽炎",
+      "artist": "フジファブリック",
+      "has_synced": false,
+      "path": "select/pl_06_陽炎_フジファブリック.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "陽炎",
+      "artist": "フジファブリック",
+      "has_synced": false,
+      "path": "select/pl_07_陽炎_フジファブリック.txt"
+    }
+  ]
+}
